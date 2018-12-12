@@ -1,2 +1,2 @@
 # Website-Design-for-Nick
-Website I'm learning and building for professional use.
+Website praxis for professional use I'm learning / building from.
